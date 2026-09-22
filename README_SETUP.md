@@ -1,0 +1,1 @@
+Mugi Artist Website V15. Visual baseline follows V7/V13. The second cover uses the original performance photograph with a minimally repositioned crop. The two cover images are not repeated in the scrolling gallery. Open index.html in a browser for local preview.
